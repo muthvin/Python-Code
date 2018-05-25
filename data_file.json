@@ -1,0 +1,16 @@
+{
+    "people": [
+        {
+            "name": "Slex",
+            "phone": "615-589-5489",
+			"emails": ["johsmith@sada.com","js@hha.com"],
+			"has_license": false
+        },
+        {
+            "name": "lko",
+            "phone": "612-859-6523",
+			"emails" : ["janedane@sada.com","jane@sdfds.com"],
+			"has_license": true
+        }
+    ]
+}
